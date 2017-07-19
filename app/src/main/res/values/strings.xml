@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ToothBrushTracker</string>
+    <string name="add_a_brush">Add a new brush</string>
+    <string name="edit_a_brush">Edit brush</string>
+    <string name="insert_brush_failed">Inserting a new brush failed</string>
+    <string name="insert_brush_successful">Inserting a new brush was done with tremendous success</string>
+    <string name="update_brush_failed">Update brush failed, some kind of dark matter involved</string>
+    <string name="update_brush_successful">Updating a new brush was done with tremendous success</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="insert_dummy_data">Insert dummy data</string>
+    <string name="delete_all_entrie">Delete all entries</string>
+    <string name="unsaved_changes">Discard changes and quit editing? </string>
+    <string name="discard">Dump\'em</string>
+    <string name="keep_editing">Keep rolin\'</string>
+    <string name="delete_dialog_message">Delete this one?</string>
+    <string name="cancel">cancel</string>
+    <string name="delete_failed">delete failed</string>
+    <string name="delete_succes">delete succesfull</string>
+    <string name="delete_all_entries">Delete all</string>
+</resources>
